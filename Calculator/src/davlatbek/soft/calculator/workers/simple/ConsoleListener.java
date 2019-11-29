@@ -1,4 +1,4 @@
-package davlatbek.soft.calculator.workers.static13;
+package davlatbek.soft.calculator.workers.simple;
 
 import java.io.BufferedReader;
 import java.io.IOException;

@@ -7,7 +7,7 @@ import davlatbek.soft.calculator.models.SolvedObject;
 import davlatbek.soft.calculator.workers.simple.Converter;
 import davlatbek.soft.calculator.workers.simple.Parser;
 import davlatbek.soft.calculator.workers.simple.Solver;
-import davlatbek.soft.calculator.workers.static13.ConsoleListener;
+import davlatbek.soft.calculator.workers.simple.ConsoleListener;
 import davlatbek.soft.calculator.workers.static13.Documentator;
 
 import java.io.IOException;
